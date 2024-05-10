@@ -1,1 +1,1 @@
-Smart contracts developed at EMURGO
+Simple smart contracts
